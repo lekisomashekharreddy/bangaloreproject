@@ -1,0 +1,26 @@
+<suite name= "somu">
+<test name= "chrometest">
+<parameter name ="Browser" value="chrome">
+</parameter>
+<classes>
+<class name ="Assingement.Test123" >
+</class>
+</classes>
+</test>
+<test name ="firebox">
+<parameter name ="Browser" value="firebox">
+</parameter>
+<classes>
+<class name ="Assingement.Test123">
+</class>
+</classes>
+</test >
+<test name ="edgedriver">
+<parameter name ="Browser" value="edge">
+</parameter>
+<classes>
+<class name ="Assingement.Test123">
+</class>
+</classes>
+</test >
+</suite>
